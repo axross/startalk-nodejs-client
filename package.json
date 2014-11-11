@@ -1,0 +1,22 @@
+{
+  "name": "startalk",
+  "version": "0.0.1",
+  "description": "Startalk Node.js client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:axross/startalk-nodejs-client.git"
+  },
+  "keywords": [
+    "startalk",
+    "client"
+  ],
+  "author": "axross",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^0.20.0"
+  }
+}
