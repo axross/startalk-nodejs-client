@@ -13,3 +13,11 @@ npm install startalk --save
 ```
 
 ## API
+
+### new Startalk(roomId, uuid)
+
+Generate startalk client instance.
+
+#### Startalk#post(text, callback(err, res){ })
+
+Post text to room.
